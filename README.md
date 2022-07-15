@@ -1,1 +1,1 @@
-# How-to-do-a-Kaggle-Competition-
+# How-to-do-a-Kaggle-Competition
