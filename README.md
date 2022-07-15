@@ -1,6 +1,6 @@
 # How-to-do-a-Kaggle-Competition
 
-This repository contains some advice on how to do a Kaggle Competition (as an example you can checkout the following competition I created a couple of months ago https://www.kaggle.com/competitions/nitro-lang-processing-1/overview which served as the task for Nitro Language Processing Hackathon 2022 Edition).
+This repository contains some advice on how to do a Kaggle Competition. As an example you can checkout the following competition I created a couple of months ago https://www.kaggle.com/competitions/nitro-lang-processing-1/overview (which served as the task for Nitro Language Processing Hackathon 2022 Edition). I added all the ".MD" files and the datasets I used to create that competition in the "data" folder, so that you can check them up and try to replicate my work if you want to test out your knowledge create a demo competition. 
 
 # General steps to follow prior to creating the competition itself
 
