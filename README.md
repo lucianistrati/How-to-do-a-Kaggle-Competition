@@ -16,3 +16,6 @@ This repository contains some advice on how to do a Kaggle Competition. As an ex
 
 - https://www.kaggle.com/code/alexisbcook/getting-started-with-kaggle-competitions/notebook
 - https://www.kaggle.com/docs/competitions
+- https://www.youtube.com/watch?v=rtzUHuGOZ7o
+- https://elitedatascience.com/beginner-kaggle
+- https://www.datacamp.com/blog/kaggle-competitions-the-complete-guide
