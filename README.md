@@ -19,3 +19,5 @@ This repository contains some advice on how to do a Kaggle Competition. As an ex
 - https://www.youtube.com/watch?v=rtzUHuGOZ7o
 - https://elitedatascience.com/beginner-kaggle
 - https://www.datacamp.com/blog/kaggle-competitions-the-complete-guide
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
